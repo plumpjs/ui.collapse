@@ -1,0 +1,22 @@
+{
+  "name": "plumpjs-collapsible",
+  "version": "0.1.0",
+  "authors": [
+    "James Howard <james@plumpdigital.co.uk>"
+  ],
+  "description": "Collapsible UI component.",
+  "main": "collapse.js",
+  "keywords": [
+    "plumpjs",
+    "collapsible",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
